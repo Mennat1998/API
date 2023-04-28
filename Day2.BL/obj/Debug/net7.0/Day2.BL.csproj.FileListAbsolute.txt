@@ -1,0 +1,15 @@
+C:\Users\elkarnk2\source\repos\Day2.BL\bin\Debug\net7.0\Day2.BL.deps.json
+C:\Users\elkarnk2\source\repos\Day2.BL\bin\Debug\net7.0\Day2.BL.dll
+C:\Users\elkarnk2\source\repos\Day2.BL\bin\Debug\net7.0\Day2.BL.pdb
+C:\Users\elkarnk2\source\repos\Day2.BL\bin\Debug\net7.0\Day2.DAL.dll
+C:\Users\elkarnk2\source\repos\Day2.BL\bin\Debug\net7.0\Day2.DAL.pdb
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.AssemblyReference.cache
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfoInputs.cache
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfo.cs
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CoreCompileInputs.cache
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CopyComplete
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.dll
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\refint\Day2.BL.dll
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\Day2.BL.pdb
+C:\Users\elkarnk2\source\repos\Day2.BL\obj\Debug\net7.0\ref\Day2.BL.dll

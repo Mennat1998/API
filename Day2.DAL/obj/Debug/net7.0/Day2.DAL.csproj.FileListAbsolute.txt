@@ -1,0 +1,14 @@
+C:\Users\elkarnk2\source\repos\Day2.DAL\bin\Debug\net7.0\Day2.DAL.deps.json
+C:\Users\elkarnk2\source\repos\Day2.DAL\bin\Debug\net7.0\Day2.DAL.runtimeconfig.json
+C:\Users\elkarnk2\source\repos\Day2.DAL\bin\Debug\net7.0\Day2.DAL.dll
+C:\Users\elkarnk2\source\repos\Day2.DAL\bin\Debug\net7.0\Day2.DAL.pdb
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.AssemblyReference.cache
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfoInputs.cache
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfo.cs
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.dll
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\refint\Day2.DAL.dll
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.pdb
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\Day2.DAL.genruntimeconfig.cache
+C:\Users\elkarnk2\source\repos\Day2.DAL\obj\Debug\net7.0\ref\Day2.DAL.dll
